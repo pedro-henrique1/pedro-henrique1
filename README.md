@@ -15,9 +15,7 @@ Sou pedro Henrique, tenho 15 anos. Sou desenvolvedor web. Habilidade em html, cs
 ![Anurag's github](https://github-readme-stats.vercel.app/api?username=pedro-henrique1&_icons=true&theme=tokyonight&count_private=true&include_all_commits)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pedro-henrique1&repo=semanaNLW)](https://github.com/pedro-henrique1/semanaNLW)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pedro-henrique1&repo=paginacao)](https://github.com/pedro-henrique1/paginacao)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pedro-henrique1&repo=formulario)](https://github.com/pedro-henrique1/formulario)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique1)](https://github.com/pedro-henrique1github-readme-stats)
