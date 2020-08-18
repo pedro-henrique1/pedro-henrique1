@@ -1,6 +1,6 @@
 # Ola 👏
 
-Sou pedro Henrique, tenho 15 anos. Sou desenvolvedor web. Habilidade em html, css, js, e um pouco de nodejs
+Sou pedro Henrique, tenho 15 anos. Sou desenvolvedor web. Habilidade em html, css, js, reactjs e um pouco de nodejs
 
 # Entrar em contato
 
