@@ -1,11 +1,10 @@
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
+<p align="center" >
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320">
+<br>
+<img src="https://profile-counter.glitch.me/pedro-henrique1/count.svg">  
+</p>
 
-<p align="center">   
-  <img src="https://profile-counter.glitch.me/pedro-henrique1/count.svg">  
-</p>  
-
-
- <h2>Ola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Ola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <h3>Contente por te ver aqui!</h3> 
 
@@ -37,6 +36,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique1&theme=tokyonight&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
 </p>
 <br>
-
+<!- START_SECTION: principais seguidores—>
+<!- END_SECTION: principais seguidores—> 
 
 
