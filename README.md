@@ -14,17 +14,14 @@
 <h2>Sobre mim</h2>
 <p>Meu nome e pedro tenho 15 anos e estudo programação a 1 ano, atualmente  estudo laravel. </p> 
 
-# Entrar em contato
+<h3> Entrar em contato
 <p align="left">
-
 <a href="https://twitter.com/Pedro65332" target="blank"><img align="center" src="https://github.com/pedro-henrique1/pedro-henrique1/blob/master/assets/twitter.svg" alt="pedro henrique" height="30" width="30" /></a>  
 <a href="https://www.linkedin.com/in/pedro-henrique-dev" target="blank"><img align="center" src="https://github.com/pedro-henrique1/pedro-henrique1/blob/master/assets/linkedin.svg" alt="pedro henrique" height="30" width="30" /></a>  
 <a href="https://fb.com/pedrohenrique" target="blank"><img align="center" src="https://github.com/pedro-henrique1/pedro-henrique1/blob/master/assets/facebook.svg" alt="pedro henrique" height="30" width="30" /></a>  
 <a href="https://www.instagram.com/pedro_henrique_dev/" target="blank"><img align="center" src="https://github.com/pedro-henrique1/pedro-henrique1/blob/master/assets/instagram.svg" alt="pedro henrique" height="30" width="30" /></a>  
-
-
 </p>
-
+</h3>
 
 <!-- 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pedr0_henrique)
