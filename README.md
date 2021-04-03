@@ -1,5 +1,4 @@
-## logo
-
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
 
 <p align="center">   
   <img src="https://profile-counter.glitch.me/pedro-henrique1/count.svg">  
@@ -23,33 +22,21 @@
 </p>
 </h3>
 
-<!-- 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pedr0_henrique)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-dev)
-[![instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_henrique_dev/) -->
-
 <br>
-<br>
+<h3 align="left">Idiomas e ferramentas:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<!-- ![Anurag's github](https://github-readme-stats.vercel.app/api?username=pedro-henrique1&_icons=true&theme=tokyonight&count_private=true&include_all_commits&show_icons=true&count_private=true&hide=contribs)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pedro-henrique1&repo=ecommerce&theme=tokyonight)](https://github.com/pedro-henrique1/ecommerce)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pedro-henrique1&repo=paginacao&theme=tokyonight)](https://github.com/pedro-henrique1/paginacao)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pedro-henrique1&repo=todoList_php&theme=tokyonight)](https://github.com/pedro-henrique1/todoList_php)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pedro-henrique1&repo=pokemon&theme=tokyonight)](https://github.com/pedro-henrique1/pokemon) -->
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique1&theme=tokyonight)](https://github.com/pedro-henrique1github-readme-stats)
+<b>⚡ Minhas Estatisticas</b>
 
+<p>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-henrique1&_icons=true&theme=tokyonight&count_private=true&include_all_commits&show_icons=true&count_private=true&hide=contribs&hide_border=true" />
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique1&theme=tokyonight&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+</p>
+<br>
+
 
 
