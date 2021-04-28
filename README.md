@@ -33,7 +33,7 @@
 <p>  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-henrique1&_icons=true&theme=tokyonight&count_private=true&include_all_commits&show_icons=true&count_private=true&hide=contribs&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique1&theme=tokyonight&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique1&theme=tokyonight&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&langs_count=8"/>  
 </p>
 <br>
 <!- START_SECTION: principais seguidores—>
