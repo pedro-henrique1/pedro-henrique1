@@ -29,5 +29,5 @@
 <div align="left">  
 <img height="180" width="415" align="left" src="https://github-readme-stats.vercel.app/api?username=pedro-henrique1&_icons=true&theme=github_dark&count_private=true&include_all_commits&show_icons=true&count_private=true&hide_border=true"/>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique1&layout=compact&theme=github_dark&align="left"&width="430"&border="none")](https://github.com/anuraghazra/github-readme-stats&border="none")
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique1&theme=github_dark&align="left"&width="430"&border="none")](https://github.com/anuraghazra/github-readme-stats&border="none")
 </div>
