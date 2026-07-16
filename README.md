@@ -68,8 +68,14 @@ API desenvolvida em Spring Boot com Redis e Docker.
 ---
 
 ## 📊 Estatísticas
-<div align="left">  
-<img height="180" width="415" align="left" src="https://github-readme-stats.vercel.app/api?username=pedro-henrique1&_icons=true&theme=github_dark&count_private=true&include_all_commits&show_icons=true&count_private=true&hide_border=true"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique1&layout=compact&theme=github_dark&align="left"&width="430"&border="none")](https://github.com/anuraghazra/github-readme-stats&border="none")
+<div align="center">
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=pedro-henrique1&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true"
+  />
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=pedro-henrique1&layout=compact&langs_count=8&theme=github_dark&hide_border=true&hide=PHP,Blade,CSS,HTML"
+  />
 </div>
